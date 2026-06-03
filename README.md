@@ -1,6 +1,6 @@
 Hi there, thanks for visiting my profile! I'm an engineer based in the Greater Toronto Area.
 
-Unfortunately, the confidential nature of my professional work has limited my Github public footprint.
+Unfortunately, the confidential nature of my professional work has limited my Github footprint.
 
 However, here are a few *small* contributions I've made to some notable projects:
 * **hashicorp/terraform-provider-aws** – Fix spot instance request cleanup ([#41206](https://github.com/hashicorp/terraform-provider-aws/pull/41206))
