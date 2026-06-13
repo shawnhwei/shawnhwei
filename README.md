@@ -8,4 +8,4 @@ However, here are a few *small* contributions I've made to some notable projects
 * **DefinitelyTyped/DefinitelyTyped** – [jsrsasign] Fix generateKeypair() signature ([#38328](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/38328))
 * **ai/nanoid** – Fix react native usage ([#141](https://github.com/ai/nanoid/pull/141))
 
-Of course, you can look through my profile for my full activity history.
+Of course, you can look through my profile for my full history (you may find more activity in previous years).
